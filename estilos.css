@@ -1,0 +1,14 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tarjeta{
+    border: solid 2px rgb(0, 2, 128);
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    text-align: center;
+    
+}
